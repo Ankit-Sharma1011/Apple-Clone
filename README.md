@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-# Modern iPhone 15 inspired website using Three.js and GSAP animations.
+# Modern iPhone 15-inspired website using Three.js and GSAP animations.
 
 ![Modern iPhone 15 inspired website using Three.js and GSAP animations.](/.github/images/img_main.png "Modern iPhone 15 inspired website using Three.js and GSAP animations.")
 
@@ -11,7 +11,7 @@
 [![Github commits](https://flat.badgen.net/github/commits/Ankit-Sharma1011/apple-clone?icon=github&color=black&scale=1.01)](https://github.com/Ankit-Sharma1011/apple-clone/commits "Github commits")
 [![GitHub issues](https://flat.badgen.net/github/issues/Ankit-Sharma1011/apple-clone?icon=github&color=black&scale=1.01)](https://github.com/Ankit-Sharma1011/apple-clone/issues "GitHub issues")
 [![GitHub pull requests](https://flat.badgen.net/github/prs/Ankit-Sharma1011/apple-clone?icon=github&color=black&scale=1.01)](https://github.com/Ankit-Sharma1011/apple-clone/pulls "GitHub pull requests")
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e2c95681-9266-4df6-9fec-324951ab778b/deploy-status)](https://app-iphone.netlify.app/ "Netlify Status")
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e2c95681-9266-4df6-9fec-324951ab778b/deploy-status)](https://iphone15-cclone.netlify.app/ "Netlify Status")
 
 <!-- Table of Contents -->
 <details>
